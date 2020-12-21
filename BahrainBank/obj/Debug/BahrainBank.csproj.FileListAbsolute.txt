@@ -1,0 +1,15 @@
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.Form1.resources
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.Main.resources
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.Properties.Resources.resources
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.RegisterForm.resources
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.csproj.GenerateResource.cache
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\bin\Debug\CustomerDataBase.mdf
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\bin\Debug\CustomerDataBase_log.ldf
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\bin\Debug\BahrainBank.exe.config
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\bin\Debug\BahrainBank.exe
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\bin\Debug\BahrainBank.pdb
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.exe
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.pdb
+C:\Users\Toshiba\source\repos\BahrainBank\BahrainBank\obj\Debug\BahrainBank.WelcomForm.resources
